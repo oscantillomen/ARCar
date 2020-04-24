@@ -1,0 +1,44 @@
+{
+  "cars": {
+    "0": {
+      "brand": "BMW",
+      "model": "i8",
+      "year": 2019,
+      "parts": {
+        "engine": "5.0 L (5,032 cc; 307.1 cu in) twin-turbocharged V8",
+        "tires": "4 pulgadas"
+        
+      }
+    },
+    "1": {
+      "brand": "Fenyr",
+      "model": "Supersport",
+      "year": 2010,
+      "parts": {
+        "engine": "3.6-litre AJD-V8 32-valve twin turbo V8 engine develops 272 hp",
+        "tires": "2 pulgadas"
+        
+      }
+    },
+    "2": {
+      "brand": "Mercedes Benz",
+      "model": "Silver Lightning",
+      "year": 2020,
+      "parts": {
+        "engine": "Front and rear motor combined output up to 825 bhp (615 kW), 960 lb⋅ft (1,300 N⋅m), 3-phase AC induction motor",
+        "tires": "2 x 21X8.5J Turbine wheels"
+        
+      }
+    },
+    "3": {
+      "brand": "Tesla",
+      "model": "Cibertruck",
+      "year": 2020,
+      "parts": {
+        "engine": "Front and rear motor combined output up to 825 bhp (615 kW), 960 lb⋅ft (1,300 N⋅m), 3-phase AC induction motor",
+        "tires": "2 x 21X8.5J Turbine wheels"
+        
+      }
+    }
+  }
+}
